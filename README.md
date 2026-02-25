@@ -2,9 +2,9 @@
 
 ## 🌊 Overview
 
-This repository contains the complete analytical framework and reproducible code for the research presented in **"Longevity collapse in dolphins: critical seven-year drop in life expectancy reveals accelerating conservation emergency in the Bay of Biscay"** published in Conservation Letters.
+This repository contains the complete analytical framework and reproducible code for the research presented in **"Longevity Collapse in Dolphins: A Growing Conservation Concern in the Bay of Biscay"** published in Conservation Letters.
 
-Our study demonstrates the first evidence of declining viability in common dolphins (*Delphinus delphis*) in the Bay of Biscay, documenting a dramatic 7-year decline in female life expectancy (from 24 to 17 years) between 1997-2019, corresponding to a 2.4% reduction in population growth rate.
+Our study demonstrates the first evidence of declining viability in common dolphins (*Delphinus delphis*) in the Bay of Biscay, documenting a dramatic 7-year decline in female longevity (from 24 to 17 years) between 1997-2019, corresponding to a 2.4% reduction in population growth rate.
 
 ## 🧬 Background
 
