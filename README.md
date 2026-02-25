@@ -153,8 +153,8 @@ The Stan models are flexible and can accommodate:
 
 **Citation:**
 > Rouby, E., Plard, F., Ridoux, V., Mauchamp, A., Dabin, W., Spitz, J., & Authier, M. (2025). 
-> Longevity collapse in dolphins: critical seven-year drop in life expectancy reveals accelerating 
-> conservation emergency in the Bay of Biscay. *Conservation Letters*, [DOI pending].
+> Longevity Collapse in Dolphins: A Growing Conservation Concern in the Bay of Biscay. 
+> Conservation Letters, 18(5), e13142.
 
 ## 📊 Data Availability
 
